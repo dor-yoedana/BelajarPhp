@@ -1,2 +1,2 @@
-# PHP
-ini adalah folder area pembelajaranku tentang PHP
+# Rencana
+menulis tentang apa yang kuketahui disini 
